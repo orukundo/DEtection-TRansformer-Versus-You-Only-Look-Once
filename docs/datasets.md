@@ -6,7 +6,7 @@ These datasets were used to train **Detection Transformer (DETR)** and **You Onl
 
 ## A) Datasets with ground truth
 
-### YOLO format
+### YOLOv8
 - **Contents:**
 
   - dataset.yaml
@@ -21,7 +21,7 @@ Each line → `<class_id> <x_center> <y_center> <width> <height>` (normalized 0�
 
 ---
 
-### DETR (COCO) format
+### DETR 
 - **Contents:**
   - annotations/ (instances_train2017.json, instances_val2017.json, instances_test2017.json)
   - train2017/ (images)
@@ -36,14 +36,12 @@ Each line → `<class_id> <x_center> <y_center> <width> <height>` (normalized 0�
 
 ## B) Dataset without ground truth
 
-Used for Inference (qualitative comparison only).
+Used for Inference.
 
 - **Contents:**
-20 images (PNG/JPG)
-no labels or annotations
-
-- **Image size: 2048×2048  
-- **Purpose:** Compare how YOLO and DETR generalize to unseen adenovirus mini-TEM images without ground truth  
+  - 20 images (PNG)
+  - no labels or annotations
+  - Image size: 2048×2048  
 
 ## Summary
 
