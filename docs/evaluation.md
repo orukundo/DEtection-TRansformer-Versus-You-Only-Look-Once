@@ -2,7 +2,7 @@
 
 Qualitative comparison on labeled adenovirus mini-TEM images.
 
-| YOLO | DETR |
+| YOLOv8 | DETR |
 |------|------|
 | <img src="images/Evaluation/Yolo/4_patch_1.jpg" width="400"/> | <img src="images/Evaluation/Detr/pred_35.png" width="400"/> |
 | <img src="images/Evaluation/Yolo/4_patch_5.jpg" width="400"/> | <img src="images/Evaluation/Detr/pred_36.png" width="400"/> |
