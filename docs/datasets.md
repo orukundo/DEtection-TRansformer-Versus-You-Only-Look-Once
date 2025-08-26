@@ -4,7 +4,7 @@ These datasets were used to train **Detection Transformer (DETR)** and **You Onl
 
 ---
 
-## A) Test set with ground truth
+## A) Datasets with ground truth
 
 ### YOLO format
 - **Contents:**
@@ -34,7 +34,7 @@ Each line â†’ `<class_id> <x_center> <y_center> <width> <height>` (normalized 0â
 
 ---
 
-## B) Test set without ground truth
+## B) Dataset without ground truth
 
 Used for Inference (qualitative comparison only).
 
