@@ -1,10 +1,10 @@
 # Evaluation — Test set with ground truth
 
-Ground-truth available for these adenovirus detections.
+Side-by-side comparison of YOLO and DETR predictions on adenovirus detection (mini-TEM images).
 
 | YOLO | DETR |
 |------|------|
-| ![](images/evaluation/yolo/4_patch_1.jpg) | ![](images/evaluation/detr/pred_35.png) |
-| ![](images/evaluation/yolo/4_patch_5.jpg) | ![](images/evaluation/detr/pred_36.png) |
-| ![](images/evaluation/yolo/5_patch_6.jpg) | ![](images/evaluation/detr/pred_38.png) |
-| ![](images/evaluation/yolo/6_patch_1.jpg) | ![](images/evaluation/detr/pred_39.png) |
+| ![](images/Evaluation/Yolo/4_patch_1.jpg) | ![](images/Evaluation/Detr/pred_35.png) |
+| ![](images/Evaluation/Yolo/4_patch_5.jpg) | ![](images/Evaluation/Detr/pred_36.png) |
+| ![](images/Evaluation/Yolo/5_patch_6.jpg) | ![](images/Evaluation/Detr/pred_38.png) |
+| ![](images/Evaluation/Yolo/6_patch_1.jpg) | ![](images/Evaluation/Detr/pred_39.png) |
