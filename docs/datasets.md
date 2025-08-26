@@ -15,9 +15,8 @@ These datasets were used to train **Detection Transformer (DETR)** and **You Onl
   - test/ (images + YOLO .txt labels)
  
 - **Image size:** 640×640  
-- **Label format:**  
-Each line → `<class_id> <x_center> <y_center> <width> <height>` (normalized 0–1)  
-- **Classes:** single class of interest → `adenovirus`
+- **Label format:**  `<class_id> <x_center> <y_center> <width> <height>`
+- **Class:** `adenovirus`
 
 ---
 
@@ -30,7 +29,7 @@ Each line → `<class_id> <x_center> <y_center> <width> <height>` (normalized 0�
 
 - **Image size:** 640×640  
 - **Label format:** COCO JSON with bounding boxes `[x, y, width, height]` and category ID  
-- **Classes:** single class of interest → `adenovirus`
+- **Class:** `adenovirus`
 
 ---
 
