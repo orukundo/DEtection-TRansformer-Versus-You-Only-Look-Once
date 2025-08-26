@@ -4,7 +4,7 @@ Qualitative comparison of detected adenovirus in mini-TEM (Transmission Electron
 🔗 **Two scenarios of interest:**  
 
 1. **Evaluation** — Test set with ground truth  
-   → [See Evaluation results](evaluation.md)  
+   → [See Evaluation results](docs/evaluation.md)  
 
 2. **Inference** — Test set without ground truth  
-   → [See Inference results](inference.md)
+   → [See Inference results](docs/inference.md)
