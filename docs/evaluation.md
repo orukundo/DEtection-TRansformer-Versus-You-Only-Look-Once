@@ -1,6 +1,6 @@
 # Evaluation — Test set with ground truth
 
-Side-by-side comparison of YOLO and DETR predictions on adenovirus detection (mini-TEM images).
+Qualitative comparison on labeled adenovirus mini-TEM images.
 
 | YOLO | DETR |
 |------|------|
