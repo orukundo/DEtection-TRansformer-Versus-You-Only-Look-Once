@@ -23,10 +23,10 @@ These datasets were used to train **Detection Transformer (DETR)** and **You Onl
 
 ### DETR 
 - **Contents:**
-  - annotations/ (instances_train2017.json, instances_val2017.json, instances_test2017.json)
-  - train2017/ (images)
-  - val2017/ (images)
-  - test2017/ (images)
+  - annotations/ (instances_train.json, instances_val.json, instances_test.json)
+  - train/ (images)
+  - val/ (images)
+  - test/ (images)
 
 - **Image size:** 640×640  
 - **Label format:** COCO JSON with bounding boxes `[x, y, width, height]` and category ID  
