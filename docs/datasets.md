@@ -1,6 +1,7 @@
 # Datasets
 
-These datasets were used to train **Detection Transformer (DETR)** and **You Only Look Once (YOLO)** for adenovirus detection in **mini-TEM (Transmission Electron Microscopy)** images.  
+These datasets were used to train **Detection Transformer (DETR)** and **You Only Look Once (YOLO)** for adenovirus detection in **mini-TEM (Transmission Electron Microscopy)** images.  Training was performed on the **UEF Bioinformatics Center’s High-Performance Computing (HPC) cluster**:  
+
 
 ---
 
